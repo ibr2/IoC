@@ -7,9 +7,11 @@ MD5: 2fbd10975ee65845a18af6b7488a5236 , Name: USPS_Delivery.doc
 MD5: a2d631fcb08a6c840c23a8f46f6892dd , Name: Cure.doc
 MD5: ad30987a53b1b0264d806805ce1a2561 , Name: VERDI.doc
 MD5: 53d5bdc6bd7904b44078cf80e239d42b , Name: VERDI.doc
+
 Second Stage:
 eset.exe
 3bfcba2dd05e1c75f86c008f4d245f62
+
 Loaders - wordupd.tmp
 21a563f958b73d453ad91e251b11855c
 27c5ecbb94b84c315d56673a851b6cf9
@@ -17,6 +19,7 @@ Loaders - wordupd.tmp
 f5ecda7dd8bb1c514f93c09cea8ae00d
 0f841c6332c89eaa7cac14c9d5b1d35b
 a0c5b4adbcd9eb6de9d32537b16c423b
+
 Loaders - Other
 b40a9eda37493425782bda4a3d9dad58
 5df79164b6d0661277f11691121b1d53
@@ -32,6 +35,8 @@ a3386e5d833c8dc5dfbb772d1d27c7d1
 d552be44a11d831e874e05cadafe04b6
 bf2e43ff8542e73c1b27291e0df06afd
 e69a8eb94f65480980deaf1ff5a431a6
+
+
 HUNTING PACKAGE
 Extracted Malware:
 5774f35d180c0702741a46d98190ff37
@@ -80,6 +85,7 @@ Files Created:
 C:\Windows\Temp\ered.tmp
 C:\Windows\Temp\wupd12.14.tmp
 DECRYPT-FILES.txt
+ 
  
 Dropper
 MD5: a2d631fcb08a6c840c23a8f46f6892dd, Name: “Cure.doc”
